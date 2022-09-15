@@ -1,6 +1,6 @@
 {
-    "name": "meu_consultor_pessoal",
-    "short_name": "meu_consultor_pessoal",
+    "name": "meu_consultor_de_investimentos",
+    "short_name": "meu_consultor_de_investimentos",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
